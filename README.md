@@ -89,16 +89,6 @@ Scikit-learn	GradientBoostingRegressor
 PySerial	Serial communication
 Joblib	Model saving/loading
 
-Project Structure
-BTMS/
-│
-├── esp32_btms.ino
-├── train_model.py
-├── realtime_prediction.py
-├── dataset.csv
-├── temp_model.pkl
-├── scaler.pkl
-└── README.md
 How It Works
 1. Train the Model
 python train_model.py
